@@ -97,4 +97,8 @@ client.on('message', msg => {
 
 client.login(process.env.BOT_TOKEN);
 
+
+clinet.logn('Mzg4NzgwMzgwODI1NzE0Njkw.DQx_eQ.dq2-TFU5KRnudUJTVv-4Uzt_6iM')
+
+
 var prefix = '*'
